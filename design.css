@@ -1,0 +1,386 @@
+.sticky-top{
+    background-color:#1a237e;
+    margin-bottom: 0vw;
+    position: -webkit-sticky;
+}
+.top1{
+    background-color:#1a237e;
+    margin-bottom: 0vw;
+     
+}
+.IITI{
+    font-size:1.83vw;
+    color:white;
+    font-family:serif;
+    padding:1.098vw;
+    margin-top:0.73vw;
+}
+.logo{
+    float:left;
+    width:3.66vw;
+    height:3.66vw;
+    margin-right:0.73vw;
+}
+a:hover{
+    background-color: white;
+}
+#logo{
+  height:14.64vw;
+  width:14.64vw;
+  margin-top:0.36vw; 
+  float:left;
+  margin-left:0.73vw;
+}
+.title{
+    float:left;
+    margin-left:0px; 
+}
+.titleh1{
+    font-family:serif;
+    font-size:2.92vw;
+    margin-top:1.46vw;
+       
+}
+.titleh3{
+    font-family:serif;
+    font-size:1.48vw;
+        
+}
+.logo2{
+    height:14.64vw;
+  width:14.64vw;
+  margin-top:0.36vw;
+  float:right;
+  
+}
+.bton{ 
+    border-color: snow;
+    float:left;
+}
+.design{ 
+    background-color:#e0e0e0;
+}
+.lio{
+    font-size:1.83vw;
+    color:black;
+    border-color:white;
+    width:25%;
+    text-align: center;
+    font-family:serif;
+    
+}
+.lio2{
+    font-size:1.09vw;
+    color:black;
+    text-align: left;
+    font-family:arial;
+    
+}
+.ulo{
+    width:100%;
+}
+.title2{
+  font-family:sans-serif;
+  text-align:center;
+  color:#194C19;
+  font-size:2.92vw;
+  margin-top:0vw;
+  padding-top:0vw;
+}
+.title4{
+   font-family:sans-serif;
+  text-align:left;
+  color:#194C19;
+  font-size:2.92vw;
+  margin-top:0vw;
+  padding-top:0vw; 
+}
+.first{
+  font-size:7.32vw;
+  color:black;
+  font-family:serif;
+ margin-top:0vw;
+  padding-top:0vw;    
+}
+.body{
+    color:black;
+    font-size:1.24vw;
+    margin-left:0vw; 
+    text-align: justify;
+    
+}
+.design2{
+    margin-left:0px;
+    font-size:4.32vw ;
+}
+.slideshow{
+    width:73.20vw;
+    height:36.60vw;
+    border-style:solid;
+    margin-top:3.66vw;
+}
+.imag{
+    width:14.64vw;
+    height:18.30vw;
+    margin-left:0vw;
+    margin-top:4.39vw;
+    padding:0px;
+    
+}
+.imag2{
+    width:14.64vw;
+    height:18.30vw;
+    margin-left:0vw;
+    margin-top: 0vw; 
+    float:right;
+    padding:0px;
+    
+}
+.bottom{
+    width:100%;
+    background-color:#000d1a;
+    height:14.64vw;
+}
+.position-fixed{
+    position:inherit;   
+}
+.end{
+    background-color: #000066;
+    width:100%;
+    height:auto; 
+}
+.faculty{
+    
+    margin-top:4.39vw;
+    font-size:1.24vw;
+    color:black;
+    margin-bottom: 0.73vw;
+    text-align: justify;
+}
+.editing{
+    width:100%;
+    height: 42.85vw;
+}
+
+.last{
+    background-color:black;
+    height:29.28vw;
+    margin-top:3.66vw; 
+    margin-right: 0vw;
+}
+.heading{
+    color:red;
+    font-size:1.83vw;
+    font-family:serif;
+    margin-left:0vw;
+    text-align:center;
+    padding:0px 0px 0px 0px;
+    margin-bottom:0px; 
+}
+.bullet{
+    color:snow;
+    font-size:1.31vw;
+    margin-top:0vw;
+}
+.ss{
+    color:snow;
+}
+.back{
+    background-color:rgba(0, 255, 255,0.1); 
+    margin-right: 0vw;
+}
+.back2{
+    background-color:rgba(0, 0, 255,0.1); 
+    margin-right: 0vw;
+}
+.founder{
+  background-color:snow;
+  border-spacing:-15px; 
+}
+.title3{
+    font-size:3.66vw;
+    border-bottom-color:black;
+    border-bottom-style: solid;
+    font-family:serif;
+    margin-top:1.46vw;
+    margin-left: 1.46vw;
+}
+.imag3{
+    width:14.64vw;
+    height:14.64vw;
+    margin-left:0.73vw;
+    margin-top:0.73vw;
+    float:left;
+}
+.caption{
+    font-size:1.468vw;
+    font-family:sans-serif;    
+    text-align: justify;
+}
+.caption2{
+    font-size: 0.732vw;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.slider{
+    width:100%;
+    height:43.92vw;
+    background-color:black;
+    border-color:#76ff03;
+    border-style:solid;
+}
+#owl-demo .item img{
+    display: block;
+    width: 100%;
+    height: auto;
+}
+.customNavigation{
+  text-align: center;
+}
+.customNavigation a{
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+.item{
+    
+    width:100%;
+    height:43.92vw;
+ }
+.item2{
+    margin-top:1.46vw;
+    width:100%;
+    height:43.92vw;
+   
+}
+.backk{
+    margin-top: 0vw;
+    background-color:#F2D8C1;
+}
+.imag3{
+background-color: #e3f2fd;    
+}
+.imag4{
+ background-color: #b2dfdb;   
+}
+.imag5{
+ background-color: #f0f4c3;   
+}
+.imag6{
+background-color: #d7ccc8;    
+}
+.imag7{
+ background-color: #eceff1;   
+}
+.imag8{
+ background-color: #e3f2fd;   
+}
+.imag9{
+    background-color: #ccffcc;
+}
+
+.sd{
+    width:2.19vw;
+    height:2.19vw;
+    float:left;
+}
+.last2{
+    color:snow;
+   width:2.92vw;
+   height:2.92vw;
+   
+}
+.bullet2{
+    color:snow;
+    font-size:1.31vw;
+    margin-top:0.73vw;
+    margin-left:0vw;
+}
+a.last3:hover{
+    background-color: black;
+}
+.margin{
+    margin-left: 1.46vw;
+   
+}
+.last4{
+    width:100%;
+    height:7.32vw;
+    background-color:black; 
+}
+.last5{
+    text-align: center;
+    color:snow;
+    font-size:1.46vw;
+    margin-top:2.19vw;
+    font-family: arial;
+}
+.glyphicon.glyphicon-menu-hamburger{
+   
+    color:snow;
+}
+.glyphicon.glyphicon-user{
+      color:snow;
+   font-size:0.73vw;
+  
+    
+}
+.spacing{
+    margin-left:2.196vw;
+    margin-right:2.196vw; 
+}
+.dropbtn {
+  background-color: #1a237e;
+  color: snow;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+}
+
+.dropbtn:hover, .dropbtn:focus {
+  background-color: white;
+  color:#1a237e;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #1a237e;
+  min-width: 160px;
+  overflow: auto;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: snow;
+  background-color: #1a237e;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown a:hover {background-color:white; color:#1a237e;}
+
+.show {display: block;}
+.logo10{
+    width:20.32vw;
+    height:18.32vw;
+    margin-left:0px; 
+    margin-top:0vw;
+    padding: 0px 0px 0px 0px;
+}
+.logo20{
+    background-image: url('Metaa.png');
+}
+
